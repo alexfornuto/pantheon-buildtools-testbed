@@ -1,0 +1,14 @@
+uuid: 50c84f89-4278-402d-bd6a-7f5ffa31e7ea
+name: pantheon-buildtools-testbed
+mail: alex.fornuto@pantheon.io
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI
